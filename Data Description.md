@@ -17,6 +17,7 @@ The table contains information about districts.
 ---------------------------------------------------------------------------------------------
 
 Column description for "dim_date":
+
 This table contains the dates at the monthly level. Please be aware that the fiscal year of Telangana spans from April to March.
 
 - month: This column contains the starting date of each month.
@@ -30,6 +31,7 @@ This table contains the dates at the monthly level. Please be aware that the fis
 ---------------------------------------------------------------------------------------------
 
 Column description for "fact_stamps":
+
 The table provides data on the revenue generated from document registrations and estamp challan payments aggregated at the district and monthly level.
 
 
@@ -50,6 +52,7 @@ The table provides data on the revenue generated from document registrations and
 
 
 Column description for "fact_transport":
+
 The table provides information about the individual vehicle sales data from the RTA(Regional Transport Authority) of the state of Telangana categorized by fuel type,
 vehicle class, seating capacity, and other general categories aggregated at the district and monthly level.
 
@@ -78,6 +81,8 @@ vehicle class, seating capacity, and other general categories aggregated at the 
 - Sales of vehicles by other categories:
 	Brand_new_vehicles: Number of brand new vehicles sold.
 	Pre-owned_vehicles: Number of pre-owned vehicles sold.
-	category_Non-Transport: Number of vehicles in the non-transport category sold. The Non-Transport category typically includes vehicles that are not primarily used for public transportation of passengers or goods. Instead, these vehicles are generally intended for personal use, recreational activities, agriculture, construction, and other non-commercial purposes.
-	category_Transport: Number of vehicles in the transport category sold. The Transport category comprises vehicles primarily designed and used for the transportation of goods, passengers, or both. These vehicles are generally associated with commercial and public transportation purposes.
+	category_Non-Transport: Number of vehicles in the non-transport category sold. The Non-Transport category typically includes vehicles that are not primarily used for public transportation of passengers or 
+                                goods. Instead, these vehicles are generally intended for personal use, recreational activities, agriculture, construction, and other non-commercial purposes.
+	category_Transport: Number of vehicles in the transport category sold. The Transport category comprises vehicles primarily designed and used for the transportation of goods, passengers, or both. These vehicles 
+                            are generally associated with commercial and public transportation purposes.
 
