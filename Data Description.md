@@ -86,3 +86,24 @@ vehicle class, seating capacity, and other general categories aggregated at the 
 	category_Transport: Number of vehicles in the transport category sold. The Transport category comprises vehicles primarily designed and used for the transportation of goods, passengers, or both. These vehicles 
                             are generally associated with commercial and public transportation purposes.
 
+---------------------------------------------------------------------------------------------
+
+
+Column description for "fact_TS_iPASS":
+
+The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the "Industrial Project Approval and Self-Certification System" (iPASS). This government initiative aims to foster industrial growth and investment by streamlining project approvals and enabling self-certification for businesses.
+For further details, visit: https://ipass.telangana.gov.in/
+
+
+- dist_code: This column represents the district code.
+
+- month: This column represents the starting date of each month.
+
+- sector: This column represents the industry category. Examples of sectors include 'Automobiles', 'Beverages', 'Engineering', 'Food Processing', etc.
+
+- investment in cr: The column represents the investment made in the specific sector, measured in crores (a unit of currency), for the corresponding district and month.
+
+- number_of_employes: This column represents the number of employees associated with that sector for given district and respective month.
+
+
+-----------------------------------------------------------------------------------------------
