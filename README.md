@@ -44,7 +44,7 @@ Gaining experience in deriving actionable insights for strategic decision-making
 # Check Out the Live Dashboard
 Explore the interactive dashboard to gain deeper insights into Telangana’s growth across sectors:
 
-[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGMwYzM4ZWUtMzE3Ni00Nzc3LWE4ZjYtMmRhYjBlZDM4MjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGRkYmVhZmYtNmE3NS00NWIyLThkZDYtNmM3ZGQ1MDFlZTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Conclusion
 This project successfully highlights Telangana's rapid growth across various sectors, leveraging its open data policy and real-time datasets to provide actionable insights. By analyzing data through interactive visualizations and mapping regional trends, the project delivers valuable recommendations to support data-driven decision-making by the Telangana government.
