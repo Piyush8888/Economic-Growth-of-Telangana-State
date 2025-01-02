@@ -6,7 +6,7 @@ It provides insights into Telangana's rapid growth, highlighting key metrics and
 
 Telangana, one of the fastest-growing states in India, is known for its progressive open data policy, having made its data publicly accessible online. This project focuses on analyzing Telangana's growth across various sectors using real-time data to generate actionable insights. The objective is to provide meaningful recommendations that can assist the Telangana government in making data-driven decisions to further support the state's development.
 
-The analysis involves answering research questions outlined in the provided document, utilizing tools such as Python, SQL, Power BI, Tableau, or Excel. A critical component of this project is the visualization of insights, including mapping data onto Telangana's district map to identify regional trends and disparities.
+The analysis involves answering research questions outlined in the provided document, utilizing tools such as SQL, Power BI, or Excel. A critical component of this project is the visualization of insights, including mapping data onto Telangana's district map to identify regional trends and disparities.
 
 The results of this analysis are intended for top-level management and will be presented creatively through a compelling presentation. Audio or video presentations are encouraged for greater impact. Additional data sourced through independent research may also be incorporated to strengthen the recommendations.
 
