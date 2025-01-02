@@ -44,4 +44,4 @@ Gaining experience in deriving actionable insights for strategic decision-making
 # Check Out the Live Dashboard
 Explore the interactive dashboard to gain deeper insights into Telangana’s growth across sectors:
 
-Live Dashboard (Insert link to dashboard here)
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGMwYzM4ZWUtMzE3Ni00Nzc3LWE4ZjYtMmRhYjBlZDM4MjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
